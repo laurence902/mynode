@@ -1,1 +1,1 @@
-console.log('I love this game.');
+console.log('I want play a game.');
